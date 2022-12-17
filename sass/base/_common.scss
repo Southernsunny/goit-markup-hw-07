@@ -1,4 +1,3 @@
-/*^ general */
 body {
   color: var(--primary-text-color);
   background-color: var(--primary-bg-color);
@@ -6,22 +5,4 @@ body {
   font-size: 14px;
   line-height: 1.14;
   letter-spacing: 0.03em;
-}
-
-.list {
-  list-style: none;
-}
-
-.link {
-  text-decoration: none;
-}
-
-img {
-  display: block;
-  max-width: 100%;
-  height: auto;
-}
-
-button {
-  cursor: pointer;
 }
